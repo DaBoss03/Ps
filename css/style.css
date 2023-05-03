@@ -100,6 +100,11 @@ a:hover{
     padding: 20px 0px;
 
 }
+.me{
+
+    width: 25%;
+
+}
 .btn {
     background: #11cdd4;
     background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
